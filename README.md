@@ -7,3 +7,5 @@
 Є декілька компонентів. App.tsx - це головний компонент, HistoryList - це компонент з переліком збережених документів та PdfViewer який відповідає за відображення pdf у браузері.
 
 Для запуску проекту викростовуємо команду `yarn run dev` для запуску тестів `yarn run test`
+
+Посилання на відео роботи: https://drive.google.com/file/d/1BAVYQT8NOZ0iwk_FNYiS18PSXEEPoN6h/view?usp=sharing
